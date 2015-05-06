@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FURC Timetable for SE &amp; TE</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="set_default_class_menu">Set Class</string>
+    <string name="search_by_class_menu">Search by Class</string>
+    <string name="search_By_Teachar">Search by teachar</string>
+
+</resources>

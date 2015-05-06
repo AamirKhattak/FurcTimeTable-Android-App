@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/SlateGray"
+    android:orientation="horizontal" >
+
+    <EditText
+        android:id="@+id/searchBox_searchByClass_activity"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:ems="10"
+        android:hint="e.g. BSTE 4, BCSE2A" >
+
+        <requestFocus />
+    </EditText>
+
+    <Button
+        android:id="@+id/searchBtn_searchByClass_activity"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/searchBox_searchByClass_activity"
+        android:layout_alignBottom="@+id/searchBox_searchByClass_activity"
+        android:layout_marginLeft="16dp"
+        android:layout_toRightOf="@+id/searchBox_searchByClass_activity"
+        android:text="Search" />
+
+    <ListView
+        android:id="@+id/listView_searchByClass"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/searchBtn_searchByClass_activity" >
+
+    </ListView>
+
+</RelativeLayout>

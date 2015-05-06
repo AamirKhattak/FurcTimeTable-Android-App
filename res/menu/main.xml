@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <!--
+         <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"/>
+    -->
+    <item
+        android:id="@+id/timetable_update"
+        android:title="@string/timetable_update_menu"/>
+    <item
+        android:id="@+id/set_default_class_menu"
+        android:title="@string/set_default_class_menu"/>
+    <item
+        android:id="@+id/search_by_class_menu"
+        android:title="@string/search_by_class_menu"/>
+
+</menu>
