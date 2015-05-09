@@ -6,3 +6,6 @@
 <img alt="screenshot - version 3b" height="170" width="120" src="https://raw.githubusercontent.com/AamirKhattak/FurcTimeTable-Android-App/master/screenshots/version%203b%20%20%20%20%20%20%20%202014-03-10.png">
 <img alt="screenshot - version 3c" height="170" width="120" src="https://raw.githubusercontent.com/AamirKhattak/FurcTimeTable-Android-App/master/screenshots/version%203c%20%20%20%20%20%20%20%202014-03-10.png">
 
+I created this app fo student/faculty of Foundation University, Rawalpindi Campus.
+It solved the problems related to timetable change notifications.
+It was created as a hobby project during my undergrad.
